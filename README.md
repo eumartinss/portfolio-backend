@@ -8,7 +8,6 @@
  ## APIs utilizadas
 
  -API com a database de filmes http://www.omdbapi.com/
- -Serviço de tradução https://github.com/LibreTranslate/LibreTranslate
 
  ## Stack
 
